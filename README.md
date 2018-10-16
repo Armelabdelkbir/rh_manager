@@ -1,1 +1,1 @@
-# rh_manager
+# RH manager
